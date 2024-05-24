@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  height: 50%;
 }
 
 .App-logo {
@@ -12,6 +11,11 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.encreuats {
+  margin: 0 auto;
+  width: 30%;
 }
 
 .App-header {
